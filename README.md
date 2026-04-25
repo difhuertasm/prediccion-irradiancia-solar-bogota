@@ -1,4 +1,5 @@
 Predicción de Irradiancia Solar en Bogotá 
+
 Este proyecto realiza un análisis exploratorio de datos (EDA) y desarrolla un modelo de regresión para predecir la radiación solar en la ciudad de Bogotá, utilizando datos históricos del portal DHIME del IDEAM (Disponible en: http://aquariuswebportal.ideam.gov.co/Data/DataSet/Summary/Location/21206960/DataSet/RAD%20SOLAR/RSG_AUT_60/Interval/Latest).
 
 
